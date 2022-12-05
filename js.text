@@ -1,964 +1,962 @@
-{
-    "data": [
-        {
-            "tagalog": "ako",
-            "english": "I",
-            "ilocano": "Siak",
-            "cebuano": "Ako",
-            "pampango": "n/a",
-            "pangasinense": "n/a"
-        },
-        {
-            "tagalog": "ito",
-            "english": "this",
-            "ilocano": "daytoy",
-            "cebuano": "kini",
-            "pampango": "n/a",
-            "pangasinense": "n/a"
-        },
-        {
-            "tagalog": "kanan",
-            "english": "right",
-            "ilocano": "kusto",
-            "cebuano": "husto",
-            "pampango": "n/a",
-            "pangasinense": "n/a"
-        },
-        {
-            "tagalog": "kaliwa",
-            "english": "left",
-            "ilocano": "kannigid",
-            "cebuano": "sa wala",
-            "pampango": "n/a",
-            "pangasinense": "n/a"
-        },
-        {
-            "tagalog": "paalam",
-            "english": "goodbye",
-            "ilocano": "mapanen",
-            "cebuano": "panamilit",
-            "pampango": "n/a",
-            "pangasinense": "n/a"
-        },
-        {
-            "tagalog": "oo",
-            "english": "yes",
-            "ilocano": "Wen",
-            "cebuano": "oo",
-            "pampango": "n/a",
-            "pangasinense": "n/a"
-        },
-        {
-            "tagalog": "hindi",
-            "english": "no",
-            "ilocano": "Saan",
-            "cebuano": "dili",
-            "pampango": "n/a",
-            "pangasinense": "n/a"
-        },
-        {
-            "tagalog": "gusto",
-            "english": "want",
-            "ilocano": "kayat",
-            "cebuano": "magkinahanglan",
-            "pampango": "n/a",
-            "pangasinense": "n/a"
-        },
-        {
-            "tagalog": "tama",
-            "english": "correct",
-            "ilocano": "kusto",
-            "cebuano": "husto",
-            "pampango": "n/a",
-            "pangasinense": "n/a"
-        },
-        {
-            "tagalog": "totoo",
-            "english": "TRUE",
-            "ilocano": "AGPAYSO",
-            "cebuano": "Tinuod",
-            "pampango": "n/a",
-            "pangasinense": "n/a"
-        },
-        {
-            "tagalog": "libre",
-            "english": "free",
-            "ilocano": "libre",
-            "cebuano": "luwason",
-            "pampango": "n/a",
-            "pangasinense": "n/a"
-        },
-        {
-            "tagalog": "kamay",
-            "english": "hand",
-            "ilocano": "ima",
-            "cebuano": "kamot",
-            "pampango": "n/a",
-            "pangasinense": "n/a"
-        },
-        {
-            "tagalog": "kailangan",
-            "english": "need",
-            "ilocano": "kasapulan",
-            "cebuano": "kinahanglanon",
-            "pampango": "n/a",
-            "pangasinense": "n/a"
-        },
-        {
-            "tagalog": "eleksyon",
-            "english": "election",
-            "ilocano": "Eleksion .",
-            "cebuano": "piniliay",
-            "pampango": "n/a",
-            "pangasinense": "n/a"
-        },
-        {
-            "tagalog": "pagbabago",
-            "english": "change",
-            "ilocano": "baliwan",
-            "cebuano": "suklian",
-            "pampango": "n/a",
-            "pangasinense": "n/a"
-        },
-        {
-            "tagalog": "dyaryo",
-            "english": "newspaper",
-            "ilocano": "Diario .",
-            "cebuano": "peryodiko",
-            "pampango": "n/a",
-            "pangasinense": "n/a"
-        },
-        {
-            "tagalog": "balita",
-            "english": "news",
-            "ilocano": "dagiti damag",
-            "cebuano": "balita",
-            "pampango": "n/a",
-            "pangasinense": "n/a"
-        },
-        {
-            "tagalog": "salamat",
-            "english": "thank you",
-            "ilocano": "aagyaman",
-            "cebuano": "salamat",
-            "pampango": "n/a",
-            "pangasinense": "n/a"
-        },
-        {
-            "tagalog": "magturo",
-            "english": "teach",
-            "ilocano": "suruan",
-            "cebuano": "pagtudlo",
-            "pampango": "n/a",
-            "pangasinense": "n/a"
-        },
-        {
-            "tagalog": "kompyuter",
-            "english": "computer",
-            "ilocano": "kompiuter",
-            "cebuano": "kompyuter",
-            "pampango": "n/a",
-            "pangasinense": "n/a"
-        },
-        {
-            "tagalog": "basahin",
-            "english": "read",
-            "ilocano": "basaen",
-            "cebuano": "basahon",
-            "pampango": "n/a",
-            "pangasinense": "n/a"
-        },
-        {
-            "tagalog": "libro",
-            "english": "book",
-            "ilocano": "libro",
-            "cebuano": "libro",
-            "pampango": "n/a",
-            "pangasinense": "n/a"
-        },
-        {
-            "tagalog": "lapis",
-            "english": "pencil",
-            "ilocano": "lapis",
-            "cebuano": "lapis",
-            "pampango": "n/a",
-            "pangasinense": "n/a"
-        },
-        {
-            "tagalog": "paglalakbay",
-            "english": "travel",
-            "ilocano": "agbiahe",
-            "cebuano": "mopanaw",
-            "pampango": "n/a",
-            "pangasinense": "n/a"
-        },
-        {
-            "tagalog": "kapit-bahay",
-            "english": "neighbor",
-            "ilocano": "karruba",
-            "cebuano": "silingan",
-            "pampango": "n/a",
-            "pangasinense": "n/a"
-        },
-        {
-            "tagalog": "pumatay",
-            "english": "kill",
-            "ilocano": "patayen",
-            "cebuano": "mopatay",
-            "pampango": "n/a",
-            "pangasinense": "n/a"
-        },
-        {
-            "tagalog": "kumilos",
-            "english": "act",
-            "ilocano": "aramid",
-            "cebuano": "binuhatan",
-            "pampango": "n/a",
-            "pangasinense": "n/a"
-        },
-        {
-            "tagalog": "halimbawa",
-            "english": "example",
-            "ilocano": "pagwadan",
-            "cebuano": "pananglitan",
-            "pampango": "n/a",
-            "pangasinense": "n/a"
-        },
-        {
-            "tagalog": "digmaan",
-            "english": "war",
-            "ilocano": "gubat",
-            "cebuano": "gubat",
-            "pampango": "n/a",
-            "pangasinense": "n/a"
-        },
-        {
-            "tagalog": "patay",
-            "english": "dead",
-            "ilocano": "natay",
-            "cebuano": "patay",
-            "pampango": "n/a",
-            "pangasinense": "n/a"
-        },
-        {
-            "tagalog": "takot",
-            "english": "afraid",
-            "ilocano": "mabuteng",
-            "cebuano": "mahadlok",
-            "pampango": "n/a",
-            "pangasinense": "n/a"
-        },
-        {
-            "tagalog": "maglaro",
-            "english": "play",
-            "ilocano": "agay-ayam",
-            "cebuano": "magdula",
-            "pampango": "n/a",
-            "pangasinense": "n/a"
-        },
-        {
-            "tagalog": "mabagal",
-            "english": "slow",
-            "ilocano": "nabattag",
-            "cebuano": "hinay",
-            "pampango": "n/a",
-            "pangasinense": "n/a"
-        },
-        {
-            "tagalog": "malakas",
-            "english": "loud",
-            "ilocano": "napigsa",
-            "cebuano": "kusog",
-            "pampango": "n/a",
-            "pangasinense": "n/a"
-        },
-        {
-            "tagalog": "malaki",
-            "english": "large",
-            "ilocano": "dakkel",
-            "cebuano": "dako",
-            "pampango": "n/a",
-            "pangasinense": "n/a"
-        },
-        {
-            "tagalog": "masarap",
-            "english": "delicious",
-            "ilocano": "naimas",
-            "cebuano": "lamian",
-            "pampango": "n/a",
-            "pangasinense": "n/a"
-        },
-        {
-            "tagalog": "saan",
-            "english": "where",
-            "ilocano": "sadinno",
-            "cebuano": "asa",
-            "pampango": "n/a",
-            "pangasinense": "n/a"
-        },
-        {
-            "tagalog": "ngiti",
-            "english": "smile",
-            "ilocano": "isem",
-            "cebuano": "mopahiyom",
-            "pampango": "n/a",
-            "pangasinense": "n/a"
-        },
-        {
-            "tagalog": "pag-ibig",
-            "english": "love",
-            "ilocano": "ayat",
-            "cebuano": "gugma",
-            "pampango": "n/a",
-            "pangasinense": "n/a"
-        },
-        {
-            "tagalog": "bakit",
-            "english": "why",
-            "ilocano": "apay",
-            "cebuano": "ngano",
-            "pampango": "n/a",
-            "pangasinense": "n/a"
-        },
-        {
-            "tagalog": "paano",
-            "english": "how",
-            "ilocano": "kasano",
-            "cebuano": "unsaon",
-            "pampango": "n/a",
-            "pangasinense": "n/a"
-        },
-        {
-            "tagalog": "kailan",
-            "english": "when",
-            "ilocano": "no",
-            "cebuano": "kanus-a",
-            "pampango": "n/a",
-            "pangasinense": "n/a"
-        },
-        {
-            "tagalog": "taba",
-            "english": "fat",
-            "ilocano": "nalukmeg",
-            "cebuano": "tambok",
-            "pampango": "n/a",
-            "pangasinense": "n/a"
-        },
-        {
-            "tagalog": "buhok",
-            "english": "hair",
-            "ilocano": "buok",
-            "cebuano": "buhok",
-            "pampango": "n/a",
-            "pangasinense": "n/a"
-        },
-        {
-            "tagalog": "bangko",
-            "english": "bank",
-            "ilocano": "bangko",
-            "cebuano": "bangko",
-            "pampango": "n/a",
-            "pangasinense": "n/a"
-        },
-        {
-            "tagalog": "pera",
-            "english": "money",
-            "ilocano": "kuarta",
-            "cebuano": "kwarta",
-            "pampango": "n/a",
-            "pangasinense": "n/a"
-        },
-        {
-            "tagalog": "amoy",
-            "english": "smell",
-            "ilocano": "angot",
-            "cebuano": "baho",
-            "pampango": "n/a",
-            "pangasinense": "n/a"
-        },
-        {
-            "tagalog": "kalsada",
-            "english": "road",
-            "ilocano": "dalan",
-            "cebuano": "dalan",
-            "pampango": "n/a",
-            "pangasinense": "n/a"
-        },
-        {
-            "tagalog": "ulan",
-            "english": "rain",
-            "ilocano": "tudo",
-            "cebuano": "ulan",
-            "pampango": "n/a",
-            "pangasinense": "n/a"
-        },
-        {
-            "tagalog": "kama",
-            "english": "bed",
-            "ilocano": "pagiddaan",
-            "cebuano": "katre",
-            "pampango": "n/a",
-            "pangasinense": "n/a"
-        },
-        {
-            "tagalog": "kumain",
-            "english": "eat",
-            "ilocano": "mangan",
-            "cebuano": "mokaon",
-            "pampango": "n/a",
-            "pangasinense": "n/a"
-        },
-        {
-            "tagalog": "asukal",
-            "english": "sugar",
-            "ilocano": "asukar",
-            "cebuano": "asukar",
-            "pampango": "n/a",
-            "pangasinense": "n/a"
-        },
-        {
-            "tagalog": "itlog",
-            "english": "egg",
-            "ilocano": "itlog",
-            "cebuano": "itlog",
-            "pampango": "n/a",
-            "pangasinense": "n/a"
-        },
-        {
-            "tagalog": "tinapay",
-            "english": "bread",
-            "ilocano": "tinapay",
-            "cebuano": "tinapay",
-            "pampango": "n/a",
-            "pangasinense": "n/a"
-        },
-        {
-            "tagalog": "gatas",
-            "english": "milk",
-            "ilocano": "gatas",
-            "cebuano": "gatas",
-            "pampango": "n/a",
-            "pangasinense": "n/a"
-        },
-        {
-            "tagalog": "yelo",
-            "english": "ice",
-            "ilocano": "yelo",
-            "cebuano": "yelo",
-            "pampango": "n/a",
-            "pangasinense": "n/a"
-        },
-        {
-            "tagalog": "puso",
-            "english": "heart",
-            "ilocano": "puso",
-            "cebuano": "kasingkasing",
-            "pampango": "n/a",
-            "pangasinense": "n/a"
-        },
-        {
-            "tagalog": "dugo",
-            "english": "blood",
-            "ilocano": "dara",
-            "cebuano": "dugo",
-            "pampango": "n/a",
-            "pangasinense": "n/a"
-        },
-        {
-            "tagalog": "tag-araw",
-            "english": "summer",
-            "ilocano": "kalgaw",
-            "cebuano": "ting-init",
-            "pampango": "n/a",
-            "pangasinense": "n/a"
-        },
-        {
-            "tagalog": "bumili",
-            "english": "buy",
-            "ilocano": "gatangen",
-            "cebuano": "mopalit",
-            "pampango": "n/a",
-            "pangasinense": "n/a"
-        },
-        {
-            "tagalog": "tindahan",
-            "english": "store",
-            "ilocano": "tiendaan",
-            "cebuano": "tindahan",
-            "pampango": "n/a",
-            "pangasinense": "n/a"
-        },
-        {
-            "tagalog": "magtanong",
-            "english": "ask",
-            "ilocano": "agdamag",
-            "cebuano": "mangutana",
-            "pampango": "n/a",
-            "pangasinense": "n/a"
-        },
-        {
-            "tagalog": "tumakbo",
-            "english": "run",
-            "ilocano": "agtaray",
-            "cebuano": "modagan",
-            "pampango": "n/a",
-            "pangasinense": "n/a"
-        },
-        {
-            "tagalog": "sulat",
-            "english": "write",
-            "ilocano": "isurat",
-            "cebuano": "magsulat",
-            "pampango": "n/a",
-            "pangasinense": "n/a"
-        },
-        {
-            "tagalog": "malamig",
-            "english": "cool",
-            "ilocano": "nalammiis",
-            "cebuano": "magpabugnaw",
-            "pampango": "n/a",
-            "pangasinense": "n/a"
-        },
-        {
-            "tagalog": "lupa",
-            "english": "soil",
-            "ilocano": "daga",
-            "cebuano": "yuta",
-            "pampango": "n/a",
-            "pangasinense": "n/a"
-        },
-        {
-            "tagalog": "taglamig",
-            "english": "winter",
-            "ilocano": "tiempo ti lam-ek",
-            "cebuano": "tingtugnaw",
-            "pampango": "n/a",
-            "pangasinense": "n/a"
-        },
-        {
-            "tagalog": "umakyat",
-            "english": "climb",
-            "ilocano": "umuli",
-            "cebuano": "mokatkat",
-            "pampango": "n/a",
-            "pangasinense": "n/a"
-        },
-        {
-            "tagalog": "burol",
-            "english": "hill",
-            "ilocano": "bunton",
-            "cebuano": "bungtod",
-            "pampango": "n/a",
-            "pangasinense": "n/a"
-        },
-        {
-            "tagalog": "salamin",
-            "english": "glass",
-            "ilocano": "sarming",
-            "cebuano": "bildo",
-            "pampango": "n/a",
-            "pangasinense": "n/a"
-        },
-        {
-            "tagalog": "damo",
-            "english": "grass",
-            "ilocano": "ruot",
-            "cebuano": "sagbot",
-            "pampango": "n/a",
-            "pangasinense": "n/a"
-        },
-        {
-            "tagalog": "trabaho",
-            "english": "job",
-            "ilocano": "tarabaho",
-            "cebuano": "trabaho",
-            "pampango": "n/a",
-            "pangasinense": "n/a"
-        },
-        {
-            "tagalog": "klase",
-            "english": "class",
-            "ilocano": "klase",
-            "cebuano": "klase",
-            "pampango": "n/a",
-            "pangasinense": "n/a"
-        },
-        {
-            "tagalog": "kanta",
-            "english": "song",
-            "ilocano": "kanta",
-            "cebuano": "awit",
-            "pampango": "n/a",
-            "pangasinense": "n/a"
-        },
-        {
-            "tagalog": "tunog",
-            "english": "sound",
-            "ilocano": "timek",
-            "cebuano": "saba",
-            "pampango": "n/a",
-            "pangasinense": "n/a"
-        },
-        {
-            "tagalog": "pagbisita",
-            "english": "visit",
-            "ilocano": "bisitaen",
-            "cebuano": "mobisita",
-            "pampango": "n/a",
-            "pangasinense": "n/a"
-        },
-        {
-            "tagalog": "malambot",
-            "english": "soft",
-            "ilocano": "nalukneng",
-            "cebuano": "humok",
-            "pampango": "n/a",
-            "pangasinense": "n/a"
-        },
-        {
-            "tagalog": "magsaya",
-            "english": "fun",
-            "ilocano": "naragsak",
-            "cebuano": "kalingawan",
-            "pampango": "n/a",
-            "pangasinense": "n/a"
-        },
-        {
-            "tagalog": "milyon",
-            "english": "million",
-            "ilocano": "milyon",
-            "cebuano": "milyon",
-            "pampango": "n/a",
-            "pangasinense": "n/a"
-        },
-        {
-            "tagalog": "mayaman",
-            "english": "rich",
-            "ilocano": "nabaknang",
-            "cebuano": "dato",
-            "pampango": "n/a",
-            "pangasinense": "n/a"
-        },
-        {
-            "tagalog": "eroplano",
-            "english": "plane",
-            "ilocano": "eroplano",
-            "cebuano": "eroplano",
-            "pampango": "n/a",
-            "pangasinense": "n/a"
-        },
-        {
-            "tagalog": "mundo",
-            "english": "world",
-            "ilocano": "lubong",
-            "cebuano": "kalibotan",
-            "pampango": "n/a",
-            "pangasinense": "n/a"
-        },
-        {
-            "tagalog": "sumbrero",
-            "english": "hat",
-            "ilocano": "Sombrero .",
-            "cebuano": "kalo",
-            "pampango": "n/a",
-            "pangasinense": "n/a"
-        },
-        {
-            "tagalog": "trak",
-            "english": "truck",
-            "ilocano": "trak",
-            "cebuano": "trak",
-            "pampango": "n/a",
-            "pangasinense": "n/a"
-        },
-        {
-            "tagalog": "ilong",
-            "english": "nose",
-            "ilocano": "agung",
-            "cebuano": "ilong",
-            "pampango": "n/a",
-            "pangasinense": "n/a"
-        },
-        {
-            "tagalog": "pakinggan",
-            "english": "hear",
-            "ilocano": "denggen",
-            "cebuano": "mamati",
-            "pampango": "n/a",
-            "pangasinense": "n/a"
-        },
-        {
-            "tagalog": "makinig",
-            "english": "listen",
-            "ilocano": "agdengngeg",
-            "cebuano": "mamati",
-            "pampango": "n/a",
-            "pangasinense": "n/a"
-        },
-        {
-            "tagalog": "bahay",
-            "english": "house",
-            "ilocano": "balay",
-            "cebuano": "balay",
-            "pampango": "n/a",
-            "pangasinense": "n/a"
-        },
-        {
-            "tagalog": "larawan",
-            "english": "picture",
-            "ilocano": "ladawan",
-            "cebuano": "hulagway",
-            "pampango": "n/a",
-            "pangasinense": "n/a"
-        },
-        {
-            "tagalog": "atin",
-            "english": "us",
-            "ilocano": "sitayo",
-            "cebuano": "kanato",
-            "pampango": "n/a",
-            "pangasinense": "n/a"
-        },
-        {
-            "tagalog": "sarili",
-            "english": "self",
-            "ilocano": "bagi",
-            "cebuano": "kaugalingon",
-            "pampango": "n/a",
-            "pangasinense": "n/a"
-        },
-        {
-            "tagalog": "malapit",
-            "english": "near",
-            "ilocano": "asideg",
-            "cebuano": "duol",
-            "pampango": "n/a",
-            "pangasinense": "n/a"
-        },
-        {
-            "tagalog": "langit",
-            "english": "sky",
-            "ilocano": "langit",
-            "cebuano": "panganod",
-            "pampango": "n/a",
-            "pangasinense": "n/a"
-        },
-        {
-            "tagalog": "bayaran",
-            "english": "pay",
-            "ilocano": "agbayad",
-            "cebuano": "sweldo",
-            "pampango": "n/a",
-            "pangasinense": "n/a"
-        },
-        {
-            "tagalog": "orasan",
-            "english": "clock",
-            "ilocano": "orasan",
-            "cebuano": "relo",
-            "pampango": "n/a",
-            "pangasinense": "n/a"
-        },
-        {
-            "tagalog": "radyo",
-            "english": "radio",
-            "ilocano": "Radio .",
-            "cebuano": "radio",
-            "pampango": "n/a",
-            "pangasinense": "n/a"
-        },
-        {
-            "tagalog": "singsing",
-            "english": "ring",
-            "ilocano": "singsing",
-            "cebuano": "singsing",
-            "pampango": "n/a",
-            "pangasinense": "n/a"
-        },
-        {
-            "tagalog": "silya",
-            "english": "chair",
-            "ilocano": "tugaw",
-            "cebuano": "silya",
-            "pampango": "n/a",
-            "pangasinense": "n/a"
-        },
-        {
-            "tagalog": "bakal",
-            "english": "iron",
-            "ilocano": "plantsa",
-            "cebuano": "puthaw",
-            "pampango": "n/a",
-            "pangasinense": "n/a"
-        },
-        {
-            "tagalog": "kalye",
-            "english": "street",
-            "ilocano": "kalsada",
-            "cebuano": "dalan",
-            "pampango": "n/a",
-            "pangasinense": "n/a"
-        },
-        {
-            "tagalog": "opisina",
-            "english": "office",
-            "ilocano": "opisina",
-            "cebuano": "opisina",
-            "pampango": "n/a",
-            "pangasinense": "n/a"
-        },
-        {
-            "tagalog": "paglalakbay",
-            "english": "trip",
-            "ilocano": "biahe",
-            "cebuano": "biyahe",
-            "pampango": "n/a",
-            "pangasinense": "n/a"
-        },
-        {
-            "tagalog": "bulaklak",
-            "english": "flower",
-            "ilocano": "sabong",
-            "cebuano": "bulak",
-            "pampango": "n/a",
-            "pangasinense": "n/a"
-        },
-        {
-            "tagalog": "umaasa",
-            "english": "hope",
-            "ilocano": "namnama",
-            "cebuano": "paglaom",
-            "pampango": "n/a",
-            "pangasinense": "n/a"
-        },
-        {
-            "tagalog": "lugar",
-            "english": "place",
-            "ilocano": "lugar",
-            "cebuano": "dapit",
-            "pampango": "n/a",
-            "pangasinense": "n/a"
-        },
-        {
-            "tagalog": "saan",
-            "english": "where",
-            "ilocano": "sadinno",
-            "cebuano": "asa",
-            "pampango": "n/a",
-            "pangasinense": "n/a"
-        },
-        {
-            "tagalog": "mabuhay",
-            "english": "live",
-            "ilocano": "agbiag",
-            "cebuano": "buhi",
-            "pampango": "n/a",
-            "pangasinense": "n/a"
-        },
-        {
-            "tagalog": "pagkatapos",
-            "english": "after",
-            "ilocano": "kalpasan",
-            "cebuano": "human sa",
-            "pampango": "n/a",
-            "pangasinense": "n/a"
-        },
-        {
-            "tagalog": "tao",
-            "english": "man",
-            "ilocano": "nataengan a lalaki",
-            "cebuano": "tawo",
-            "pampango": "n/a",
-            "pangasinense": "n/a"
-        },
-        {
-            "tagalog": "dumating",
-            "english": "came",
-            "ilocano": "napan",
-            "cebuano": "mianhi",
-            "pampango": "n/a",
-            "pangasinense": "n/a"
-        },
-        {
-            "tagalog": "mabuti",
-            "english": "good",
-            "ilocano": "nasayaat",
-            "cebuano": "maayo",
-            "pampango": "n/a",
-            "pangasinense": "n/a"
-        },
-        {
-            "tagalog": "pangalan",
-            "english": "name",
-            "ilocano": "nagan",
-            "cebuano": "ngalan",
-            "pampango": "n/a",
-            "pangasinense": "n/a"
-        },
-        {
-            "tagalog": "napaka",
-            "english": "very",
-            "ilocano": "unay",
-            "cebuano": "kaayo",
-            "pampango": "n/a",
-            "pangasinense": "n/a"
-        },
-        {
-            "tagalog": "pagod",
-            "english": "tired",
-            "ilocano": "nabannog",
-            "cebuano": "gikapoy",
-            "pampango": "n/a",
-            "pangasinense": "n/a"
-        },
-        {
-            "tagalog": "magandang araw",
-            "english": "beautiful day",
-            "ilocano": "Napintas nga aldaw .",
-            "cebuano": "matahum nga adlaw",
-            "pampango": "n/a",
-            "pangasinense": "n/a"
-        },
-        {
-            "tagalog": "kamusta ka?",
-            "english": "how are you?",
-            "ilocano": "kumusta kan?",
-            "cebuano": "Kumusta ka?",
-            "pampango": "n/a",
-            "pangasinense": "n/a"
-        },
-        {
-            "tagalog": "magandang umaga",
-            "english": "good morning",
-            "ilocano": "naimbag a bigat",
-            "cebuano": "maayong buntag",
-            "pampango": "n/a",
-            "pangasinense": "n/a"
-        },
-        {
-            "tagalog": "magandang hapon",
-            "english": "good afternoon",
-            "ilocano": "naimbag a malem",
-            "cebuano": "maayong hapon",
-            "pampango": "n/a",
-            "pangasinense": "n/a"
-        },
-        {
-            "tagalog": "magandang gabi",
-            "english": "good evening",
-            "ilocano": "naimbag a rabii",
-            "cebuano": "maayong gabii",
-            "pampango": "n/a",
-            "pangasinense": "n/a"
-        },
-        {
-            "tagalog": "salamat",
-            "english": "thank you",
-            "ilocano": "aagyaman",
-            "cebuano": "salamat",
-            "pampango": "n/a",
-            "pangasinense": "n/a"
-        }
-    ]
-}
+[
+    {
+        "tagalog": "ako",
+        "english": "I",
+        "ilocano": "Siak",
+        "cebuano": "Ako",
+        "pampango": "n/a",
+        "pangasinense": "n/a"
+    },
+    {
+        "tagalog": "ito",
+        "english": "this",
+        "ilocano": "daytoy",
+        "cebuano": "kini",
+        "pampango": "n/a",
+        "pangasinense": "n/a"
+    },
+    {
+        "tagalog": "kanan",
+        "english": "right",
+        "ilocano": "kusto",
+        "cebuano": "husto",
+        "pampango": "n/a",
+        "pangasinense": "n/a"
+    },
+    {
+        "tagalog": "kaliwa",
+        "english": "left",
+        "ilocano": "kannigid",
+        "cebuano": "sa wala",
+        "pampango": "n/a",
+        "pangasinense": "n/a"
+    },
+    {
+        "tagalog": "paalam",
+        "english": "goodbye",
+        "ilocano": "mapanen",
+        "cebuano": "panamilit",
+        "pampango": "n/a",
+        "pangasinense": "n/a"
+    },
+    {
+        "tagalog": "oo",
+        "english": "yes",
+        "ilocano": "Wen",
+        "cebuano": "oo",
+        "pampango": "n/a",
+        "pangasinense": "n/a"
+    },
+    {
+        "tagalog": "hindi",
+        "english": "no",
+        "ilocano": "Saan",
+        "cebuano": "dili",
+        "pampango": "n/a",
+        "pangasinense": "n/a"
+    },
+    {
+        "tagalog": "gusto",
+        "english": "want",
+        "ilocano": "kayat",
+        "cebuano": "magkinahanglan",
+        "pampango": "n/a",
+        "pangasinense": "n/a"
+    },
+    {
+        "tagalog": "tama",
+        "english": "correct",
+        "ilocano": "kusto",
+        "cebuano": "husto",
+        "pampango": "n/a",
+        "pangasinense": "n/a"
+    },
+    {
+        "tagalog": "totoo",
+        "english": "TRUE",
+        "ilocano": "AGPAYSO",
+        "cebuano": "Tinuod",
+        "pampango": "n/a",
+        "pangasinense": "n/a"
+    },
+    {
+        "tagalog": "libre",
+        "english": "free",
+        "ilocano": "libre",
+        "cebuano": "luwason",
+        "pampango": "n/a",
+        "pangasinense": "n/a"
+    },
+    {
+        "tagalog": "kamay",
+        "english": "hand",
+        "ilocano": "ima",
+        "cebuano": "kamot",
+        "pampango": "n/a",
+        "pangasinense": "n/a"
+    },
+    {
+        "tagalog": "kailangan",
+        "english": "need",
+        "ilocano": "kasapulan",
+        "cebuano": "kinahanglanon",
+        "pampango": "n/a",
+        "pangasinense": "n/a"
+    },
+    {
+        "tagalog": "eleksyon",
+        "english": "election",
+        "ilocano": "Eleksion .",
+        "cebuano": "piniliay",
+        "pampango": "n/a",
+        "pangasinense": "n/a"
+    },
+    {
+        "tagalog": "pagbabago",
+        "english": "change",
+        "ilocano": "baliwan",
+        "cebuano": "suklian",
+        "pampango": "n/a",
+        "pangasinense": "n/a"
+    },
+    {
+        "tagalog": "dyaryo",
+        "english": "newspaper",
+        "ilocano": "Diario .",
+        "cebuano": "peryodiko",
+        "pampango": "n/a",
+        "pangasinense": "n/a"
+    },
+    {
+        "tagalog": "balita",
+        "english": "news",
+        "ilocano": "dagiti damag",
+        "cebuano": "balita",
+        "pampango": "n/a",
+        "pangasinense": "n/a"
+    },
+    {
+        "tagalog": "salamat",
+        "english": "thank you",
+        "ilocano": "aagyaman",
+        "cebuano": "salamat",
+        "pampango": "n/a",
+        "pangasinense": "n/a"
+    },
+    {
+        "tagalog": "magturo",
+        "english": "teach",
+        "ilocano": "suruan",
+        "cebuano": "pagtudlo",
+        "pampango": "n/a",
+        "pangasinense": "n/a"
+    },
+    {
+        "tagalog": "kompyuter",
+        "english": "computer",
+        "ilocano": "kompiuter",
+        "cebuano": "kompyuter",
+        "pampango": "n/a",
+        "pangasinense": "n/a"
+    },
+    {
+        "tagalog": "basahin",
+        "english": "read",
+        "ilocano": "basaen",
+        "cebuano": "basahon",
+        "pampango": "n/a",
+        "pangasinense": "n/a"
+    },
+    {
+        "tagalog": "libro",
+        "english": "book",
+        "ilocano": "libro",
+        "cebuano": "libro",
+        "pampango": "n/a",
+        "pangasinense": "n/a"
+    },
+    {
+        "tagalog": "lapis",
+        "english": "pencil",
+        "ilocano": "lapis",
+        "cebuano": "lapis",
+        "pampango": "n/a",
+        "pangasinense": "n/a"
+    },
+    {
+        "tagalog": "paglalakbay",
+        "english": "travel",
+        "ilocano": "agbiahe",
+        "cebuano": "mopanaw",
+        "pampango": "n/a",
+        "pangasinense": "n/a"
+    },
+    {
+        "tagalog": "kapit-bahay",
+        "english": "neighbor",
+        "ilocano": "karruba",
+        "cebuano": "silingan",
+        "pampango": "n/a",
+        "pangasinense": "n/a"
+    },
+    {
+        "tagalog": "pumatay",
+        "english": "kill",
+        "ilocano": "patayen",
+        "cebuano": "mopatay",
+        "pampango": "n/a",
+        "pangasinense": "n/a"
+    },
+    {
+        "tagalog": "kumilos",
+        "english": "act",
+        "ilocano": "aramid",
+        "cebuano": "binuhatan",
+        "pampango": "n/a",
+        "pangasinense": "n/a"
+    },
+    {
+        "tagalog": "halimbawa",
+        "english": "example",
+        "ilocano": "pagwadan",
+        "cebuano": "pananglitan",
+        "pampango": "n/a",
+        "pangasinense": "n/a"
+    },
+    {
+        "tagalog": "digmaan",
+        "english": "war",
+        "ilocano": "gubat",
+        "cebuano": "gubat",
+        "pampango": "n/a",
+        "pangasinense": "n/a"
+    },
+    {
+        "tagalog": "patay",
+        "english": "dead",
+        "ilocano": "natay",
+        "cebuano": "patay",
+        "pampango": "n/a",
+        "pangasinense": "n/a"
+    },
+    {
+        "tagalog": "takot",
+        "english": "afraid",
+        "ilocano": "mabuteng",
+        "cebuano": "mahadlok",
+        "pampango": "n/a",
+        "pangasinense": "n/a"
+    },
+    {
+        "tagalog": "maglaro",
+        "english": "play",
+        "ilocano": "agay-ayam",
+        "cebuano": "magdula",
+        "pampango": "n/a",
+        "pangasinense": "n/a"
+    },
+    {
+        "tagalog": "mabagal",
+        "english": "slow",
+        "ilocano": "nabattag",
+        "cebuano": "hinay",
+        "pampango": "n/a",
+        "pangasinense": "n/a"
+    },
+    {
+        "tagalog": "malakas",
+        "english": "loud",
+        "ilocano": "napigsa",
+        "cebuano": "kusog",
+        "pampango": "n/a",
+        "pangasinense": "n/a"
+    },
+    {
+        "tagalog": "malaki",
+        "english": "large",
+        "ilocano": "dakkel",
+        "cebuano": "dako",
+        "pampango": "n/a",
+        "pangasinense": "n/a"
+    },
+    {
+        "tagalog": "masarap",
+        "english": "delicious",
+        "ilocano": "naimas",
+        "cebuano": "lamian",
+        "pampango": "n/a",
+        "pangasinense": "n/a"
+    },
+    {
+        "tagalog": "saan",
+        "english": "where",
+        "ilocano": "sadinno",
+        "cebuano": "asa",
+        "pampango": "n/a",
+        "pangasinense": "n/a"
+    },
+    {
+        "tagalog": "ngiti",
+        "english": "smile",
+        "ilocano": "isem",
+        "cebuano": "mopahiyom",
+        "pampango": "n/a",
+        "pangasinense": "n/a"
+    },
+    {
+        "tagalog": "pag-ibig",
+        "english": "love",
+        "ilocano": "ayat",
+        "cebuano": "gugma",
+        "pampango": "n/a",
+        "pangasinense": "n/a"
+    },
+    {
+        "tagalog": "bakit",
+        "english": "why",
+        "ilocano": "apay",
+        "cebuano": "ngano",
+        "pampango": "n/a",
+        "pangasinense": "n/a"
+    },
+    {
+        "tagalog": "paano",
+        "english": "how",
+        "ilocano": "kasano",
+        "cebuano": "unsaon",
+        "pampango": "n/a",
+        "pangasinense": "n/a"
+    },
+    {
+        "tagalog": "kailan",
+        "english": "when",
+        "ilocano": "no",
+        "cebuano": "kanus-a",
+        "pampango": "n/a",
+        "pangasinense": "n/a"
+    },
+    {
+        "tagalog": "taba",
+        "english": "fat",
+        "ilocano": "nalukmeg",
+        "cebuano": "tambok",
+        "pampango": "n/a",
+        "pangasinense": "n/a"
+    },
+    {
+        "tagalog": "buhok",
+        "english": "hair",
+        "ilocano": "buok",
+        "cebuano": "buhok",
+        "pampango": "n/a",
+        "pangasinense": "n/a"
+    },
+    {
+        "tagalog": "bangko",
+        "english": "bank",
+        "ilocano": "bangko",
+        "cebuano": "bangko",
+        "pampango": "n/a",
+        "pangasinense": "n/a"
+    },
+    {
+        "tagalog": "pera",
+        "english": "money",
+        "ilocano": "kuarta",
+        "cebuano": "kwarta",
+        "pampango": "n/a",
+        "pangasinense": "n/a"
+    },
+    {
+        "tagalog": "amoy",
+        "english": "smell",
+        "ilocano": "angot",
+        "cebuano": "baho",
+        "pampango": "n/a",
+        "pangasinense": "n/a"
+    },
+    {
+        "tagalog": "kalsada",
+        "english": "road",
+        "ilocano": "dalan",
+        "cebuano": "dalan",
+        "pampango": "n/a",
+        "pangasinense": "n/a"
+    },
+    {
+        "tagalog": "ulan",
+        "english": "rain",
+        "ilocano": "tudo",
+        "cebuano": "ulan",
+        "pampango": "n/a",
+        "pangasinense": "n/a"
+    },
+    {
+        "tagalog": "kama",
+        "english": "bed",
+        "ilocano": "pagiddaan",
+        "cebuano": "katre",
+        "pampango": "n/a",
+        "pangasinense": "n/a"
+    },
+    {
+        "tagalog": "kumain",
+        "english": "eat",
+        "ilocano": "mangan",
+        "cebuano": "mokaon",
+        "pampango": "n/a",
+        "pangasinense": "n/a"
+    },
+    {
+        "tagalog": "asukal",
+        "english": "sugar",
+        "ilocano": "asukar",
+        "cebuano": "asukar",
+        "pampango": "n/a",
+        "pangasinense": "n/a"
+    },
+    {
+        "tagalog": "itlog",
+        "english": "egg",
+        "ilocano": "itlog",
+        "cebuano": "itlog",
+        "pampango": "n/a",
+        "pangasinense": "n/a"
+    },
+    {
+        "tagalog": "tinapay",
+        "english": "bread",
+        "ilocano": "tinapay",
+        "cebuano": "tinapay",
+        "pampango": "n/a",
+        "pangasinense": "n/a"
+    },
+    {
+        "tagalog": "gatas",
+        "english": "milk",
+        "ilocano": "gatas",
+        "cebuano": "gatas",
+        "pampango": "n/a",
+        "pangasinense": "n/a"
+    },
+    {
+        "tagalog": "yelo",
+        "english": "ice",
+        "ilocano": "yelo",
+        "cebuano": "yelo",
+        "pampango": "n/a",
+        "pangasinense": "n/a"
+    },
+    {
+        "tagalog": "puso",
+        "english": "heart",
+        "ilocano": "puso",
+        "cebuano": "kasingkasing",
+        "pampango": "n/a",
+        "pangasinense": "n/a"
+    },
+    {
+        "tagalog": "dugo",
+        "english": "blood",
+        "ilocano": "dara",
+        "cebuano": "dugo",
+        "pampango": "n/a",
+        "pangasinense": "n/a"
+    },
+    {
+        "tagalog": "tag-araw",
+        "english": "summer",
+        "ilocano": "kalgaw",
+        "cebuano": "ting-init",
+        "pampango": "n/a",
+        "pangasinense": "n/a"
+    },
+    {
+        "tagalog": "bumili",
+        "english": "buy",
+        "ilocano": "gatangen",
+        "cebuano": "mopalit",
+        "pampango": "n/a",
+        "pangasinense": "n/a"
+    },
+    {
+        "tagalog": "tindahan",
+        "english": "store",
+        "ilocano": "tiendaan",
+        "cebuano": "tindahan",
+        "pampango": "n/a",
+        "pangasinense": "n/a"
+    },
+    {
+        "tagalog": "magtanong",
+        "english": "ask",
+        "ilocano": "agdamag",
+        "cebuano": "mangutana",
+        "pampango": "n/a",
+        "pangasinense": "n/a"
+    },
+    {
+        "tagalog": "tumakbo",
+        "english": "run",
+        "ilocano": "agtaray",
+        "cebuano": "modagan",
+        "pampango": "n/a",
+        "pangasinense": "n/a"
+    },
+    {
+        "tagalog": "sulat",
+        "english": "write",
+        "ilocano": "isurat",
+        "cebuano": "magsulat",
+        "pampango": "n/a",
+        "pangasinense": "n/a"
+    },
+    {
+        "tagalog": "malamig",
+        "english": "cool",
+        "ilocano": "nalammiis",
+        "cebuano": "magpabugnaw",
+        "pampango": "n/a",
+        "pangasinense": "n/a"
+    },
+    {
+        "tagalog": "lupa",
+        "english": "soil",
+        "ilocano": "daga",
+        "cebuano": "yuta",
+        "pampango": "n/a",
+        "pangasinense": "n/a"
+    },
+    {
+        "tagalog": "taglamig",
+        "english": "winter",
+        "ilocano": "tiempo ti lam-ek",
+        "cebuano": "tingtugnaw",
+        "pampango": "n/a",
+        "pangasinense": "n/a"
+    },
+    {
+        "tagalog": "umakyat",
+        "english": "climb",
+        "ilocano": "umuli",
+        "cebuano": "mokatkat",
+        "pampango": "n/a",
+        "pangasinense": "n/a"
+    },
+    {
+        "tagalog": "burol",
+        "english": "hill",
+        "ilocano": "bunton",
+        "cebuano": "bungtod",
+        "pampango": "n/a",
+        "pangasinense": "n/a"
+    },
+    {
+        "tagalog": "salamin",
+        "english": "glass",
+        "ilocano": "sarming",
+        "cebuano": "bildo",
+        "pampango": "n/a",
+        "pangasinense": "n/a"
+    },
+    {
+        "tagalog": "damo",
+        "english": "grass",
+        "ilocano": "ruot",
+        "cebuano": "sagbot",
+        "pampango": "n/a",
+        "pangasinense": "n/a"
+    },
+    {
+        "tagalog": "trabaho",
+        "english": "job",
+        "ilocano": "tarabaho",
+        "cebuano": "trabaho",
+        "pampango": "n/a",
+        "pangasinense": "n/a"
+    },
+    {
+        "tagalog": "klase",
+        "english": "class",
+        "ilocano": "klase",
+        "cebuano": "klase",
+        "pampango": "n/a",
+        "pangasinense": "n/a"
+    },
+    {
+        "tagalog": "kanta",
+        "english": "song",
+        "ilocano": "kanta",
+        "cebuano": "awit",
+        "pampango": "n/a",
+        "pangasinense": "n/a"
+    },
+    {
+        "tagalog": "tunog",
+        "english": "sound",
+        "ilocano": "timek",
+        "cebuano": "saba",
+        "pampango": "n/a",
+        "pangasinense": "n/a"
+    },
+    {
+        "tagalog": "pagbisita",
+        "english": "visit",
+        "ilocano": "bisitaen",
+        "cebuano": "mobisita",
+        "pampango": "n/a",
+        "pangasinense": "n/a"
+    },
+    {
+        "tagalog": "malambot",
+        "english": "soft",
+        "ilocano": "nalukneng",
+        "cebuano": "humok",
+        "pampango": "n/a",
+        "pangasinense": "n/a"
+    },
+    {
+        "tagalog": "magsaya",
+        "english": "fun",
+        "ilocano": "naragsak",
+        "cebuano": "kalingawan",
+        "pampango": "n/a",
+        "pangasinense": "n/a"
+    },
+    {
+        "tagalog": "milyon",
+        "english": "million",
+        "ilocano": "milyon",
+        "cebuano": "milyon",
+        "pampango": "n/a",
+        "pangasinense": "n/a"
+    },
+    {
+        "tagalog": "mayaman",
+        "english": "rich",
+        "ilocano": "nabaknang",
+        "cebuano": "dato",
+        "pampango": "n/a",
+        "pangasinense": "n/a"
+    },
+    {
+        "tagalog": "eroplano",
+        "english": "plane",
+        "ilocano": "eroplano",
+        "cebuano": "eroplano",
+        "pampango": "n/a",
+        "pangasinense": "n/a"
+    },
+    {
+        "tagalog": "mundo",
+        "english": "world",
+        "ilocano": "lubong",
+        "cebuano": "kalibotan",
+        "pampango": "n/a",
+        "pangasinense": "n/a"
+    },
+    {
+        "tagalog": "sumbrero",
+        "english": "hat",
+        "ilocano": "Sombrero .",
+        "cebuano": "kalo",
+        "pampango": "n/a",
+        "pangasinense": "n/a"
+    },
+    {
+        "tagalog": "trak",
+        "english": "truck",
+        "ilocano": "trak",
+        "cebuano": "trak",
+        "pampango": "n/a",
+        "pangasinense": "n/a"
+    },
+    {
+        "tagalog": "ilong",
+        "english": "nose",
+        "ilocano": "agung",
+        "cebuano": "ilong",
+        "pampango": "n/a",
+        "pangasinense": "n/a"
+    },
+    {
+        "tagalog": "pakinggan",
+        "english": "hear",
+        "ilocano": "denggen",
+        "cebuano": "mamati",
+        "pampango": "n/a",
+        "pangasinense": "n/a"
+    },
+    {
+        "tagalog": "makinig",
+        "english": "listen",
+        "ilocano": "agdengngeg",
+        "cebuano": "mamati",
+        "pampango": "n/a",
+        "pangasinense": "n/a"
+    },
+    {
+        "tagalog": "bahay",
+        "english": "house",
+        "ilocano": "balay",
+        "cebuano": "balay",
+        "pampango": "n/a",
+        "pangasinense": "n/a"
+    },
+    {
+        "tagalog": "larawan",
+        "english": "picture",
+        "ilocano": "ladawan",
+        "cebuano": "hulagway",
+        "pampango": "n/a",
+        "pangasinense": "n/a"
+    },
+    {
+        "tagalog": "atin",
+        "english": "us",
+        "ilocano": "sitayo",
+        "cebuano": "kanato",
+        "pampango": "n/a",
+        "pangasinense": "n/a"
+    },
+    {
+        "tagalog": "sarili",
+        "english": "self",
+        "ilocano": "bagi",
+        "cebuano": "kaugalingon",
+        "pampango": "n/a",
+        "pangasinense": "n/a"
+    },
+    {
+        "tagalog": "malapit",
+        "english": "near",
+        "ilocano": "asideg",
+        "cebuano": "duol",
+        "pampango": "n/a",
+        "pangasinense": "n/a"
+    },
+    {
+        "tagalog": "langit",
+        "english": "sky",
+        "ilocano": "langit",
+        "cebuano": "panganod",
+        "pampango": "n/a",
+        "pangasinense": "n/a"
+    },
+    {
+        "tagalog": "bayaran",
+        "english": "pay",
+        "ilocano": "agbayad",
+        "cebuano": "sweldo",
+        "pampango": "n/a",
+        "pangasinense": "n/a"
+    },
+    {
+        "tagalog": "orasan",
+        "english": "clock",
+        "ilocano": "orasan",
+        "cebuano": "relo",
+        "pampango": "n/a",
+        "pangasinense": "n/a"
+    },
+    {
+        "tagalog": "radyo",
+        "english": "radio",
+        "ilocano": "Radio .",
+        "cebuano": "radio",
+        "pampango": "n/a",
+        "pangasinense": "n/a"
+    },
+    {
+        "tagalog": "singsing",
+        "english": "ring",
+        "ilocano": "singsing",
+        "cebuano": "singsing",
+        "pampango": "n/a",
+        "pangasinense": "n/a"
+    },
+    {
+        "tagalog": "silya",
+        "english": "chair",
+        "ilocano": "tugaw",
+        "cebuano": "silya",
+        "pampango": "n/a",
+        "pangasinense": "n/a"
+    },
+    {
+        "tagalog": "bakal",
+        "english": "iron",
+        "ilocano": "plantsa",
+        "cebuano": "puthaw",
+        "pampango": "n/a",
+        "pangasinense": "n/a"
+    },
+    {
+        "tagalog": "kalye",
+        "english": "street",
+        "ilocano": "kalsada",
+        "cebuano": "dalan",
+        "pampango": "n/a",
+        "pangasinense": "n/a"
+    },
+    {
+        "tagalog": "opisina",
+        "english": "office",
+        "ilocano": "opisina",
+        "cebuano": "opisina",
+        "pampango": "n/a",
+        "pangasinense": "n/a"
+    },
+    {
+        "tagalog": "paglalakbay",
+        "english": "trip",
+        "ilocano": "biahe",
+        "cebuano": "biyahe",
+        "pampango": "n/a",
+        "pangasinense": "n/a"
+    },
+    {
+        "tagalog": "bulaklak",
+        "english": "flower",
+        "ilocano": "sabong",
+        "cebuano": "bulak",
+        "pampango": "n/a",
+        "pangasinense": "n/a"
+    },
+    {
+        "tagalog": "umaasa",
+        "english": "hope",
+        "ilocano": "namnama",
+        "cebuano": "paglaom",
+        "pampango": "n/a",
+        "pangasinense": "n/a"
+    },
+    {
+        "tagalog": "lugar",
+        "english": "place",
+        "ilocano": "lugar",
+        "cebuano": "dapit",
+        "pampango": "n/a",
+        "pangasinense": "n/a"
+    },
+    {
+        "tagalog": "saan",
+        "english": "where",
+        "ilocano": "sadinno",
+        "cebuano": "asa",
+        "pampango": "n/a",
+        "pangasinense": "n/a"
+    },
+    {
+        "tagalog": "mabuhay",
+        "english": "live",
+        "ilocano": "agbiag",
+        "cebuano": "buhi",
+        "pampango": "n/a",
+        "pangasinense": "n/a"
+    },
+    {
+        "tagalog": "pagkatapos",
+        "english": "after",
+        "ilocano": "kalpasan",
+        "cebuano": "human sa",
+        "pampango": "n/a",
+        "pangasinense": "n/a"
+    },
+    {
+        "tagalog": "tao",
+        "english": "man",
+        "ilocano": "nataengan a lalaki",
+        "cebuano": "tawo",
+        "pampango": "n/a",
+        "pangasinense": "n/a"
+    },
+    {
+        "tagalog": "dumating",
+        "english": "came",
+        "ilocano": "napan",
+        "cebuano": "mianhi",
+        "pampango": "n/a",
+        "pangasinense": "n/a"
+    },
+    {
+        "tagalog": "mabuti",
+        "english": "good",
+        "ilocano": "nasayaat",
+        "cebuano": "maayo",
+        "pampango": "n/a",
+        "pangasinense": "n/a"
+    },
+    {
+        "tagalog": "pangalan",
+        "english": "name",
+        "ilocano": "nagan",
+        "cebuano": "ngalan",
+        "pampango": "n/a",
+        "pangasinense": "n/a"
+    },
+    {
+        "tagalog": "napaka",
+        "english": "very",
+        "ilocano": "unay",
+        "cebuano": "kaayo",
+        "pampango": "n/a",
+        "pangasinense": "n/a"
+    },
+    {
+        "tagalog": "pagod",
+        "english": "tired",
+        "ilocano": "nabannog",
+        "cebuano": "gikapoy",
+        "pampango": "n/a",
+        "pangasinense": "n/a"
+    },
+    {
+        "tagalog": "magandang araw",
+        "english": "beautiful day",
+        "ilocano": "Napintas nga aldaw .",
+        "cebuano": "matahum nga adlaw",
+        "pampango": "n/a",
+        "pangasinense": "n/a"
+    },
+    {
+        "tagalog": "kamusta ka?",
+        "english": "how are you?",
+        "ilocano": "kumusta kan?",
+        "cebuano": "Kumusta ka?",
+        "pampango": "n/a",
+        "pangasinense": "n/a"
+    },
+    {
+        "tagalog": "magandang umaga",
+        "english": "good morning",
+        "ilocano": "naimbag a bigat",
+        "cebuano": "maayong buntag",
+        "pampango": "n/a",
+        "pangasinense": "n/a"
+    },
+    {
+        "tagalog": "magandang hapon",
+        "english": "good afternoon",
+        "ilocano": "naimbag a malem",
+        "cebuano": "maayong hapon",
+        "pampango": "n/a",
+        "pangasinense": "n/a"
+    },
+    {
+        "tagalog": "magandang gabi",
+        "english": "good evening",
+        "ilocano": "naimbag a rabii",
+        "cebuano": "maayong gabii",
+        "pampango": "n/a",
+        "pangasinense": "n/a"
+    },
+    {
+        "tagalog": "salamat",
+        "english": "thank you",
+        "ilocano": "aagyaman",
+        "cebuano": "salamat",
+        "pampango": "n/a",
+        "pangasinense": "n/a"
+    }
+]
